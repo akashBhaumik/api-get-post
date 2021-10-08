@@ -1,7 +1,7 @@
 
 import './App.css';
-import GetUser from './GetUser';
-import AddUser from './AddUser';
+import GetUser from './Component/GetUser';
+import AddUser from './Component/AddUser';
 import React from 'react';
 
 import {Route, Switch } from "react-router-dom";
